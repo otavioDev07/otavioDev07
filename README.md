@@ -5,9 +5,7 @@
 - 📫 Contate-me no email: netootavio223@outlook.com | Contact me at: netootavio223@outlook.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/otávio-neto12)
-[![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/pt-BR/Profile?xr=mebarnav&csrf=zQVibxrL9_ZeFiGNiwbLP9LuF-F9uBYELtjzvLgaADT3WdL9VzKDeYRQLn-3g1oaZZCheHTk3O23Xzd57FKuh1PMtIo1&wa=wsignin1.0&activetab=main:mainTab2)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ota.netto/)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://pt.quora.com/profile/Otávio-Neto-7)
 
 
 ![Otávio GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioDev07&show_icons=true&theme=tokyonight)

@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Otávio Neto | Hi, I'm Otávio Neto 😺
 
+- 📖 Estudo Ciência da Computação na Universidade Técnologica Federal do Paraná | I study Computer Science at the Federal Technological University of Paraná.
 - 🔭 Atualmente trabalho com back-end. | I currently work in the back-end.
-- 🌱 Estou estudando Java e Python. | I'm studying Java and Python.
+- 🌱 Estou estudando Java e C. | I'm studying Java and C.
 - 📫 Contate-me no email: netootavio223@outlook.com | Contact me at: netootavio223@outlook.com
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/otávio-neto12)

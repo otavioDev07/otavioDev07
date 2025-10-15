@@ -2,7 +2,7 @@
 
 - 📖 Estudo Ciência da Computação na Universidade Técnologica Federal do Paraná | I study Computer Science at the Federal Technological University of Paraná.
 - 🔭 Atualmente trabalho com back-end. | I currently work in the back-end.
-- 🌱 Estou estudando Java e C. | I'm studying Java and C.
+- 🌱 Estou estudando Java | I'm studying Java
 - 📫 Contate-me no email: netootavio223@outlook.com | Contact me at: netootavio223@outlook.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ota.netto/)

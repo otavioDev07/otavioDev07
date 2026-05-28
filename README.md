@@ -8,8 +8,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ota.netto/)
 
 
-![Otávio GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioDev07&show_icons=true&theme=tokyonight)
-
 ## Minhas Tecnologias | My technologies 🧑🏻‍💻
 <div style="display: inline_block"><br/>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

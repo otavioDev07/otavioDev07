@@ -3,7 +3,7 @@
 - 📖 Estudo Ciência da Computação na Universidade Técnologica Federal do Paraná | I study Computer Science at the Federal Technological University of Paraná.
 - 🔭 Atualmente trabalho com back-end. | I currently work in the back-end.
 - 🌱 Estou estudando Java | I'm studying Java
-- Desenvolvedor na [RabblTech](https://github.com/rabbitechej)
+- Desenvolvedor de Software na [RabblTech](https://github.com/rabbitechej) | Software Developer at [RabblTech](https://github.com/rabbitechej)
 - 📫 Contate-me no email: netootavio223@outlook.com | Contact me at: netootavio223@outlook.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ota.netto/)

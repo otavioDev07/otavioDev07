@@ -2,6 +2,8 @@
 
 - Estudo Ciência da Computação na Universidade Técnologica Federal do Paraná | I study Computer Science at the Federal Technological University of Paraná.
 - Desenvolvedor de Software e Vice-Presidente na [RabblTech](https://github.com/rabbitechej) | Software Developer and Vice-President at [RabblTech](https://github.com/rabbitechej)
+- Pesquisador em Visão Computacional | Computer Vision Researcher
+- Apaixonado por liderar times, resolver problemas, Visão Computacional e Aprendizado de Máquina | Passionate about leading teams and solving problems, Computer Vision, and Machine Learning.
 - Contate-me no email: netootavio223@outlook.com | Contact me at: netootavio223@outlook.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ota.netto/)
